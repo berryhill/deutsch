@@ -1,12 +1,15 @@
 # deutsch
 
-### The
+### The/ A
 
-|main|subject|object|2nd object|
-|----|-------|------|----------|
-|**der**|der|den|dem|
-|**die**|die|die||
-|**das**|das|||
+|english|main|subject|object|2nd object|
+|-------|----|-------|------|----------|
+|the|**der**|der|den|dem|
+|-|**die**|die|die||
+|-|**das**|das|||
+|a|**der**|ein|einen|einem|
+|-|**die**|eine|eine||
+|-|**das**||||
 
 ### Subjects
 
@@ -64,9 +67,8 @@
 
 |english|deutsche|english|deutsche|
 |-------|--------|-------|--------|
-|**day, days**|tag, tagen|**beautiful**|hubsch|
-|**house**|haus|**month, months**|monat, monate|
-|****||****||
+|**day, days**|der tag, die tage|**year, years**|das jahr, die jahre|
+|**house**|das haus, die häuser|**month, months**|der monat, die monate|
 |****||****||
 |****||****||
 
@@ -78,8 +80,7 @@
 |**must**|müßen|**when**|wann|
 |**where**|wo, woher|**who**|wer|
 |**how**|wie|**what**|was|
-|**together**|gemeinsam|****||
-|****||****||
+|**together**|gemeinsam|**very**|sehr|
 |****||****||
 |****||****||
 
@@ -87,7 +88,17 @@
 
 |english|deutsche|english|deutsche|
 |-------|--------|-------|--------|
+|**large**|groß|**small**|klein|
+|**good**|gut|**bad**|schlect|
+|**beautiful**|hubsch|****||
+|****||****||
+
+### Prepositions
+
+|english|deutsche|english|deutsche|
+|-------|--------|-------|--------|
 |**with**|mit|**for**|für|
+|****||****||
 |****||****||
 
 ### Sayings
@@ -105,7 +116,7 @@
 |**I would like ____**|Ich mochte gern ____|
 |**I don't know**|Ich weiss nicht.|
 |**Right now!**|macht schnell!|
-|****||
+|**Awesome!**|Natürlich!|
 |****||
 
 |english|deutsche|english|deutsche|
