@@ -2,7 +2,7 @@
 
 ### The / A
 
-|english|main|subject|object|2nd object|
+|english|deutsch|subject|object|2nd object|
 |-------|----|-------|------|----------|
 |the|**der**|der|den|dem|
 |-|**die**|die|die||
@@ -48,7 +48,7 @@
 
 ### Verbs
 
-|english|deutsche|english|deutsche|
+|english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**to be**|sind|**to learn**|lernen|
 |**to have**|haben|**to visit**|besuchen|
@@ -67,7 +67,7 @@
 
 ### Nouns
 
-|english|deutsche|english|deutsche|
+|english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**day, days**|der tag, die tage|**year, years**|das jahr, die jahre|
 |**house, houses**|das haus, die häuser|**month, months**|der monat, die monate|
@@ -78,7 +78,7 @@
 
 ### Adverbs
 
-|english|deutsche|english|deutsche|
+|english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**should**|sollten|**can**|können|
 |**must**|müßen|**when**|wann|
@@ -90,19 +90,19 @@
 
 ### Adjectives
 
-|english|deutsche|english|deutsche|
+|english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**large**|groß|**small**|klein|
 |**good**|gut|**bad**|schlect|
 |**beautiful**|hubsch|**ugly**|hässlich|
 |**long**|lange|**short**|kurz|
 |**a lot**|viel|**a couple**|paar|
-|****||****||
+|**pretty, sort of**|ziemlich|****||
 |****||****||
 
 ### Prepositions
 
-|english|deutsche|english|deutsche|
+|english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**with**|mit|**for**|für|
 |**to**|zu|**in**|im|
@@ -111,7 +111,7 @@
 
 ### Sayings
 
-|english|deutsche|
+|english|deutsch|
 |-------|--------|
 |**Thank You!**|Danke schön!|
 |**Your Welcome!**|Bitte schön!|
@@ -129,4 +129,11 @@
 |**I am trying to learn German.**|Ich versuche Deutsch zu lernen|
 |**I speak a little German**|Ich spreche ein bisschen Deutsch.|
 |**Just so you know, I am American.**|Nur damit du es weißt, ich bin Amerikaner.|
+|**I am going on a run**|Ich gehe los|
+|**When exactly?**|Wann genau?|
+|**Is 8pm too late?**|Ist 8pm Uhr zu spät?|
+|**Apologies everybody..**|Es tut mir lied..|
+|**Moving to Vienna?**|Umzüg macht Wien?|
+|**No big deal.**|Keine groß Sache.|
+|****||
 |****||
