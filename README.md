@@ -1,6 +1,6 @@
 # deutsch
 
-### The/ A
+### The / A
 
 |english|main|subject|object|2nd object|
 |-------|----|-------|------|----------|
@@ -60,7 +60,8 @@
 |**to write**|schreiben|**to know**|wißen|
 |**to live**|leben|**would like**|mochten|
 |**to move**|ziehen|**to be called**|heißen|
-|**to practice**|üben|****||
+|**to practice**|üben|**to play**|spielen|
+|****||****||
 |****||****||
 
 ### Nouns
@@ -68,7 +69,9 @@
 |english|deutsche|english|deutsche|
 |-------|--------|-------|--------|
 |**day, days**|der tag, die tage|**year, years**|das jahr, die jahre|
-|**house**|das haus, die häuser|**month, months**|der monat, die monate|
+|**house, houses**|das haus, die häuser|**month, months**|der monat, die monate|
+|**car, cars**|das auto, die autos|**cell phone**|das handy|
+|**time**|die Zeit|**computer**|der computer|
 |****||****||
 |****||****||
 
@@ -90,7 +93,10 @@
 |-------|--------|-------|--------|
 |**large**|groß|**small**|klein|
 |**good**|gut|**bad**|schlect|
-|**beautiful**|hubsch|****||
+|**beautiful**|hubsch|**ugly**|hässlich|
+|**long**|lange|**short**|kurz|
+|**a lot**|viel|**a couple**|paar|
+|****||****||
 |****||****||
 
 ### Prepositions
@@ -98,6 +104,7 @@
 |english|deutsche|english|deutsche|
 |-------|--------|-------|--------|
 |**with**|mit|**for**|für|
+|**to**|zu|**in**|im|
 |****||****||
 |****||****||
 
@@ -117,9 +124,6 @@
 |**I don't know**|Ich weiss nicht.|
 |**Right now!**|macht schnell!|
 |**Awesome!**|Natürlich!|
+|**Your thoughts?**|Den denkst du?|
 |****||
-
-|english|deutsche|english|deutsche|
-|-------|--------|-------|--------|
-|****||****||
-|****||****||
+|****||
