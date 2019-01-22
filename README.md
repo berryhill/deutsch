@@ -8,10 +8,10 @@
 |**die**|die|die||
 |**das**|das|||
 
-### Nouns
+### Subjects
 
 |english|subject|object|2nd object|
-|----|-------|------|----------|
+|-------|-------|------|----------|
 |**I**|ich|mich|mir|
 |**you**|du|dich|dir|
 |**he**|er|||
@@ -20,10 +20,10 @@
 |**you (p)**|ihr|||
 |**they**|sie|||
 
-###Possessives
+### Possessives
 
 |english|the|subject|object|2nd object|
-|----|---|-------|------|----------|
+|-------|---|-------|------|----------|
 |**mine**|der|mein|meinen|meinem|
 |-|die|meine|meine||
 |-|das||||
@@ -55,27 +55,60 @@
 |**to go**|gehen|**to come**|kommen|
 |**to want**|wollen|**to help**|helfen|
 |**to write**|schreiben|**to know**|wißen|
-|**to live**|leben|****||
+|**to live**|leben|**would like**|mochten|
+|**to move**|ziehen|**to be called**|heißen|
+|**to practice**|üben|****||
 |****||****||
 
+### Nouns
 
-### Verb Modifiers
+|english|deutsche|english|deutsche|
+|-------|--------|-------|--------|
+|**day, days**|tag, tagen|**beautiful**|hubsch|
+|**house**|haus|**month, months**|monat, monate|
+|****||****||
+|****||****||
+|****||****||
 
-|english|deutsche|
-|-------|--------|
-|**should**|sollten|
-|**can**|können|
-|**must**|müßen|
-|****||
+### Adverbs
+
+|english|deutsche|english|deutsche|
+|-------|--------|-------|--------|
+|**should**|sollten|**can**|können|
+|**must**|müßen|**when**|wann|
+|**where**|wo, woher|**who**|wer|
+|**how**|wie|**what**|was|
+|**together**|gemeinsam|****||
+|****||****||
+|****||****||
+|****||****||
+
+### Adjectives
+
+|english|deutsche|english|deutsche|
+|-------|--------|-------|--------|
+|**with**|mit|**for**|für|
+|****||****||
 
 ### Sayings
 
 |english|deutsche|
 |-------|--------|
-|**Have fun!**||
-|**Practice make perfect!**||
-
-|english|deutsche|
-|-------|--------|
+|**Thank You!**|Danke schön!|
+|**Your Welcome!**|Bitte schön!|
+|**No Thank You!**||
+|**Have fun!**|Ein bisschen spass machen!|
+|**Practice make perfect!**|Übung macht den Meister!|
+|**Did you like it?**|Hat es dir gefallen?|
+|**Really?**|Wirklich?|
+|**in a couple ____**|in ein paar ____|
+|**I would like ____**|Ich mochte gern ____|
+|**I don't know**|Ich weiss nicht.|
+|**Right now!**|macht schnell!|
+|****||
 |****||
 
+|english|deutsche|english|deutsche|
+|-------|--------|-------|--------|
+|****||****||
+|****||****||
