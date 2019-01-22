@@ -1,4 +1,4 @@
-# deutsch
+# Deutsch
 
 ### The / A
 
@@ -61,6 +61,7 @@
 |**to live**|leben|**would like**|mochten|
 |**to move**|ziehen|**to be called**|heißen|
 |**to practice**|üben|**to play**|spielen|
+|**to eat**|essen|**to try**|versuchen|
 |****||****||
 |****||****||
 
@@ -122,8 +123,10 @@
 |**in a couple ____**|in ein paar ____|
 |**I would like ____**|Ich mochte gern ____|
 |**I don't know**|Ich weiss nicht.|
-|**Right now!**|macht schnell!|
+|**Right now!**|Macht schnell!|
 |**Awesome!**|Natürlich!|
 |**Your thoughts?**|Den denkst du?|
-|****||
+|**I am trying to learn German.**|Ich versuche Deutsch zu lernen|
+|**I speak a little German**|Ich spreche ein bisschen Deutsch.|
+|**Just so you know, I am American.**|Nur damit du es weißt, ich bin Amerikaner.|
 |****||
