@@ -36,13 +36,16 @@
 |**his**|der|sein|seinen|seinem|
 |-|die|seine|seine||
 |-|das||||
+|**her**|der|ihr|||
+|-|die||||
+|-|das||||
 |**ours**|der|dein|deinen|deinem|
 |-|die|deine|deine||
 |-|das||||
 |**yours (p)**|der||||
 |-|die||||
 |-|das||||
-|**theirs**|der||||
+|**theirs**|der|ihr|||
 |-|die||||
 |-|das||||
 
