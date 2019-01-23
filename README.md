@@ -73,7 +73,7 @@
 |**house, houses**|das haus, die häuser|**month, months**|der monat, die monate|
 |**car, cars**|das auto, die autos|**cell phone**|das handy|
 |**time**|die Zeit|**computer**|der computer|
-|****||****||
+|**weekend**|das wochenende|****||
 |****||****||
 
 ### Adverbs
@@ -90,6 +90,15 @@
 
 ### Adjectives
 
+// below needs help
+
+|english|deutsch|der|die|das|
+|-------|-------|---|---|---|
+|**this**|diese|dieser|dieses|dieses|
+|**that**|diese||||
+|**these**|diese||||
+|**those**|diese||||
+
 |english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
 |**large**|groß|**small**|klein|
@@ -98,6 +107,7 @@
 |**long**|lange|**short**|kurz|
 |**a lot**|viel|**a couple**|paar|
 |**pretty, sort of**|ziemlich|****||
+|****||****||
 |****||****||
 
 ### Prepositions
