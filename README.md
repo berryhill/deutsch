@@ -1,31 +1,40 @@
 # Deutsch
 
+### Cases
+
+|case|description|example|translation|
+|----|-----------|-------|-----------|
+|Nominative|Subject|**Der Mann** findet den Ball|The man found the ball|
+|Accusative|Direct Object|Der Mann findet **den Ball**|The man found the ball|
+|Dative|Indirect Object|Ich glaube **deinem Mann**|The believe the man|
+|Genitive|Possessive (of)||
+
 ### The / A
 
-|english|deutsch|subject|object|2nd object|
+|english|deutsch|nominative|accusative|dative|
 |-------|----|-------|------|----------|
-|the|**der**|der|den|dem|
-|-|**die**|die|die||
-|-|**das**|das|||
-|a|**der**|ein|einen|einem|
-|-|**die**|eine|eine||
-|-|**das**||||
+|**the**|**der**|der|den|dem|
+|-|**die**|die|die|der|
+|-|**das**|das|das|dem|
+|**a**|**der**|ein|einen|einem|
+|-|**die**|eine|eine|einer|
+|-|**das**|ein|ein|einem|
 
 ### Subjects
 
-|english|subject|object|2nd object|
+|english|nominative|accusative|dative|
 |-------|-------|------|----------|
 |**I**|ich|mich|mir|
 |**you**|du|dich|dir|
-|**he**|er|||
-|**she**|sie|||
-|**we**|wir|||
-|**you (p)**|ihr|||
-|**they**|sie|||
+|**he**|er|ihn|ihm|
+|**she**|sie|sie|ihr|
+|**we**|wir|uns|uns|
+|**you (p)**|ihr|euch|euch|
+|**they**|sie|sie|ihnen|
 
 ### Possessives
 
-|english|the|subject|object|2nd object|
+|english|the|nominative|accusative|dative|
 |-------|---|-------|------|----------|
 |**mine**|der|mein|meinen|meinem|
 |-|die|meine|meine||
@@ -36,17 +45,17 @@
 |**his**|der|sein|seinen|seinem|
 |-|die|seine|seine||
 |-|das||||
-|**her**|der|ihr|||
-|-|die||||
+|**her**|der|ihr|ihren|ihrem|
+|-|die|ihre|ihre||
 |-|das||||
-|**ours**|der|dein|deinen|deinem|
-|-|die|deine|deine||
+|**ours**|der|unser|unseren|unserem|
+|-|die|unsere|unsere||
 |-|das||||
 |**yours (p)**|der||||
 |-|die||||
 |-|das||||
-|**theirs**|der|ihr|||
-|-|die||||
+|**theirs**|der|ihr|ihren|ihrem|
+|-|die|ihre|ihre||
 |-|das||||
 
 ### Verbs
@@ -72,12 +81,13 @@
 
 |english|deutsch|english|deutsch|
 |-------|--------|-------|--------|
-|**day, days**|der tag, die tage|**year, years**|das jahr, die jahre|
-|**house, houses**|das haus, die häuser|**month, months**|der monat, die monate|
-|**car, cars**|das auto, die autos|**cell phone**|das handy|
-|**time**|die Zeit|**computer**|der computer|
-|**weekend**|das wochenende|****||
+|**day, days**|der Tag, die Tage|**year, years**|das Jahr, die Jahre|
+|**house, houses**|das Haus, die Häuser|**month, months**|der Monat, die Monate|
+|**weekend**|das Wochenende|**week, weeks**|die Woche, die Wochen|
+|**car, cars**|das Auto, die Autos|**cell phone**|das Handy|
+|**time**|die Zeit|**computer**|der Computer|
 |****||****||
+|****||****||	
 
 ### Adverbs
 
@@ -95,7 +105,7 @@
 
 // below needs help
 
-|english|deutsch|der|die|das|
+|english|deutsch|nominative|accusative|dative|
 |-------|-------|---|---|---|
 |**this**|diese|dieser|dieses|dieses|
 |**that**|diese||||
